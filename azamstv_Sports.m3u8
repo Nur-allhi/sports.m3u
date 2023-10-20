@@ -8,6 +8,10 @@ http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeu
 #EXTINF:0,FTP DDN 3
 #EXTGRP:unsorted
 http://ctgtv.live:1934/92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51/fet-3/chunks.m3u8
+
+#EXTINF:0,ESPN
+#EXTGRP:unsorted
+http://38.96.178.201:80/live/ESPNHD/index.m3u8
 #EXTINF:0,Astro Cricket
 #EXTGRP:unsorted
 https://isp.sananda.online/Astro/video.m3u8
