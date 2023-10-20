@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:0,FTP DDN
+#EXTGRP:unsorted
+http://ctgtv.live:1934/92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51/fet-3/chunks.m3u8
+#EXTINF:0,FTP DDN 2
+#EXTGRP:unsorted
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/willow-cric/chunks.m3u8?nimblesessionid=44385623
+#EXTINF:0,FTP DDN 3
+#EXTGRP:unsorted
+http://ctgtv.live:1934/92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51/fet-3/chunks.m3u8
+#EXTINF:0,Astro Cricket
+#EXTGRP:unsorted
+https://isp.sananda.online/Astro/video.m3u8
+#EXTINF:0,T-Sports
+#EXTGRP:unsorted
+http://103.175.242.10:8080/live/tsports/tracks-v1a1/mono.m3u8
+#EXTINF:0,Gazi Tv
+#EXTGRP:unsorted
+http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
+#EXTINF:0,Fox
+#EXTGRP:unsorted
+https://isp.sananda.online/Fox/video.m3u8
+#EXTINF:0,World Cup Live 3
+#EXTGRP:unsorted
+https://sportsleading.online/live/stream_e3.m3u8
+#EXTINF:0,World Cup Live 4
+#EXTGRP:unsorted
+http://live.himel-himu.tk/GTV-HD-Bdix/hls/Himel-Op.m3u8
+#EXTINF:0,Willow
+#EXTGRP:unsorted
+http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/69848
+#EXTINF:0,STAR SPORTS 2 HD
+#EXTGRP:unsorted
+http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/69844
+#EXTINF:0,STAR SPORTS 1 HD
+#EXTGRP:unsorted
+http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/58220
+#EXTINF:0,Star Sports Select 1 HD
+#EXTGRP:unsorted
+http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/72905
+#EXTINF:0,Sony Ten 3 HD (JIO)
+#EXTGRP:unsorted
+http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/71157
+#EXTINF:0,Sony TEN 1 HD
+#EXTGRP:unsorted
+http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/58219
+#EXTINF:0,SONY Ten 5 HD
+#EXTGRP:unsorted
+http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/58207
+#EXTINF:0,TEN SPORT 1
+#EXTGRP:unsorted
+http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/63594
+#EXTINF:0,TEN SPORT 2
+#EXTGRP:unsorted
+http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/63595
+#EXTINF:0,SONY TEN 2
+#EXTGRP:unsorted
+http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/67223
+#EXTINF:0,TEN 2 HD
+#EXTGRP:unsorted
+http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/67252
+#EXTINF:0,Sony Ten 3 HD (JIO)
+#EXTGRP:unsorted
+http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/71157
+#EXTINF:0,Sky sports cricket
+#EXTGRP:unsorted
+http://38b891c9.rossteleccom.net/iptv/MEV98DR6KE4G5Y/7343/index.m3u8
+#EXTINF:0,Sky sports f1
+#EXTGRP:unsorted
+http://38b891c9.rossteleccom.net/iptv/MEV98DR6KE4G5Y/7342/index.m3u8
+#EXTINF:0,Sky Sports Main Events
+#EXTGRP:unsorted
+http://38b891c9.rossteleccom.net/iptv/MEV98DR6KE4G5Y/7337/index.m3u8
